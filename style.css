@@ -1,0 +1,83 @@
+body{
+    background-image: url("teachers.webp");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-color: bisque;
+}
+h1{
+    text-align: 25px;
+    color: #920898;
+    border-style: dotted;
+    border-width: thick;
+    text-align: center;
+    height: 10vh;
+    border-color:white;
+    background-color: antiquewhite;
+
+    
+}
+
+
+h2{
+    text-align: 17px;
+    color: #920898;
+    border-style: dotted;
+    border-width: thick;
+    text-align: left;
+    height: 10vh;
+    border-color:white;
+    border-left: 43%;
+    background-color: firebrick;
+
+        width: 300px;
+        padding: 25px;
+        box-sizing: border-box;
+}
+
+
+
+
+footer{
+    border: 5px solid;
+    height: 10vh;
+    border-color: white;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    border-style: dotted;
+    border-width: thick;
+  }
+  div{
+      height: 100vh;
+  }
+
+  label{
+      width: 30%;
+  }
+
+  button{
+      width: 20%;
+      height: 10%;
+      color: white;
+      background-color:#c3158e;
+
+  }
+  table tr td {
+    border: 1px solid white;
+    width: 40px;
+    background-color: #ab15c3  ;
+    padding: 5px;
+}
+#Teacher{
+    color: #0e72f0 ;
+    font-style: italic;
+}
+ul li{
+    color: #0ef047 ;
+    font-weight: bold;
+}
+  
+  
